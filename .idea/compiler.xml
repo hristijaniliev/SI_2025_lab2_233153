@@ -4,7 +4,7 @@
     <bytecodeTargetLevel>
       <module name="SI_lab2_233153" target="24" />
       <module name="SI_lab2_233153.main" target="24" />
-      <module name="SI_lab2_233153.test" target="24" />
+      <module name="SILab2Test.test" target="24" />
     </bytecodeTargetLevel>
   </component>
 </project>

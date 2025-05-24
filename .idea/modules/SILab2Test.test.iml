@@ -4,7 +4,7 @@
     <output-test url="file://$MODULE_DIR$/../../SI_lab2_233153/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../SI_lab2_233153/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../SI_lab2_233153/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../SI_lab2_233153/src/test/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../SI_lab2_233153/src/test/resources" type="java-test-resource" />
     </content>
     <orderEntry type="jdk" jdkName="openjdk-21" jdkType="JavaSDK" />
